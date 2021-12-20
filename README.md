@@ -1,3 +1,7 @@
+<h1>Acknowledgement</h1>
+
+This is a fork of the library from nrdlab. The only change I have made is to compile the output with commonjs modules to make it compatible with a NodeJS project.
+
 <div align="center">
   <img src="https://github.com/nrdlab/pattern-matching-ts/blob/master/img/pattern-matching-ts.png?raw=true">
 </div>
